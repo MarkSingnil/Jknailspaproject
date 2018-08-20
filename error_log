@@ -1,0 +1,1278 @@
+[15-Nov-2015 18:55:59 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[15-Nov-2015 18:55:59 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[15-Nov-2015 18:55:59 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[15-Jan-2016 21:58:51 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[15-Jan-2016 21:58:51 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[15-Jan-2016 21:58:51 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[05-Feb-2016 22:59:33 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[05-Feb-2016 22:59:33 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[05-Feb-2016 22:59:33 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[08-Feb-2016 13:01:29 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[08-Feb-2016 13:01:29 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[08-Feb-2016 13:01:29 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[10-Feb-2016 02:41:57 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[10-Feb-2016 02:41:57 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[10-Feb-2016 02:41:57 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[10-Feb-2016 02:41:58 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[10-Feb-2016 02:41:58 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[10-Feb-2016 02:41:58 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[10-Feb-2016 03:52:45 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[10-Feb-2016 03:52:45 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[10-Feb-2016 03:52:45 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[10-Feb-2016 03:52:46 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[10-Feb-2016 03:52:46 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[10-Feb-2016 03:52:46 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[12-Feb-2016 04:20:04 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[12-Feb-2016 04:20:04 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[12-Feb-2016 04:20:04 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[16-Feb-2016 04:23:05 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[16-Feb-2016 04:23:05 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[16-Feb-2016 04:23:05 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[07-Mar-2016 06:02:19 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[07-Mar-2016 06:02:19 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[07-Mar-2016 06:02:19 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[04-Apr-2016 13:03:13 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[04-Apr-2016 13:03:13 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[04-Apr-2016 13:03:13 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[28-Apr-2016 23:41:21 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[28-Apr-2016 23:41:21 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[28-Apr-2016 23:41:21 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[30-Apr-2016 18:29:09 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[30-Apr-2016 18:29:09 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 39
+[30-Apr-2016 18:29:09 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 40
+[30-Apr-2016 18:29:09 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 42
+[01-May-2016 02:50:56 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[01-May-2016 02:50:56 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 39
+[01-May-2016 02:50:56 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 40
+[01-May-2016 02:50:56 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 42
+[01-May-2016 03:33:09 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[01-May-2016 03:33:09 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 39
+[01-May-2016 03:33:09 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 40
+[01-May-2016 03:33:09 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 42
+[01-May-2016 23:14:41 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[01-May-2016 23:14:41 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 39
+[01-May-2016 23:14:41 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 40
+[01-May-2016 23:14:41 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 42
+[01-May-2016 23:15:24 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[01-May-2016 23:15:24 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 39
+[01-May-2016 23:15:24 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 40
+[01-May-2016 23:15:24 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 42
+[02-May-2016 00:06:05 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[02-May-2016 00:06:05 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 39
+[02-May-2016 00:06:05 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 40
+[02-May-2016 00:06:05 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 42
+[02-May-2016 17:08:47 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[02-May-2016 17:08:47 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[02-May-2016 17:08:47 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[02-May-2016 17:08:47 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[02-May-2016 17:08:47 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[02-May-2016 17:08:47 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[03-May-2016 13:04:02 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[03-May-2016 13:04:02 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[03-May-2016 13:04:02 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[03-May-2016 13:04:02 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[03-May-2016 13:04:02 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[03-May-2016 13:04:02 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[03-May-2016 13:10:43 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[03-May-2016 13:10:43 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[03-May-2016 13:10:43 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[03-May-2016 13:10:43 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[03-May-2016 13:10:43 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[03-May-2016 13:10:43 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[05-May-2016 17:43:59 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[05-May-2016 17:43:59 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[05-May-2016 17:43:59 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[05-May-2016 17:43:59 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[05-May-2016 17:43:59 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[05-May-2016 17:43:59 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[07-May-2016 22:43:13 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[07-May-2016 22:43:13 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[07-May-2016 22:43:13 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[07-May-2016 22:43:13 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[07-May-2016 22:43:13 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[07-May-2016 22:43:13 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[12-May-2016 16:30:52 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[12-May-2016 16:30:52 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[12-May-2016 16:30:52 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[12-May-2016 16:30:52 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[12-May-2016 16:30:52 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[12-May-2016 16:30:52 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[16-May-2016 13:09:08 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[16-May-2016 13:09:08 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[16-May-2016 13:09:08 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[16-May-2016 13:09:08 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[16-May-2016 13:09:08 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[16-May-2016 13:09:08 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[16-May-2016 13:09:44 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[16-May-2016 13:09:44 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[16-May-2016 13:09:44 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[16-May-2016 13:09:44 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[16-May-2016 13:09:44 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[16-May-2016 13:09:44 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[17-May-2016 04:49:22 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[17-May-2016 04:49:22 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[17-May-2016 04:49:22 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[17-May-2016 04:49:22 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[17-May-2016 04:49:22 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[17-May-2016 04:49:22 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[20-May-2016 02:40:02 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[20-May-2016 02:40:02 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[20-May-2016 02:40:02 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[20-May-2016 16:42:39 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[20-May-2016 16:42:39 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[20-May-2016 16:42:39 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[20-May-2016 16:42:39 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[20-May-2016 16:42:39 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[20-May-2016 16:42:39 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[25-May-2016 06:34:47 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[25-May-2016 06:34:47 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[25-May-2016 06:34:47 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[25-May-2016 06:34:47 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[25-May-2016 06:34:47 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[25-May-2016 06:34:47 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[25-May-2016 06:35:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[25-May-2016 06:35:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[25-May-2016 06:35:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[25-May-2016 06:35:17 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[25-May-2016 06:35:17 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[25-May-2016 06:35:17 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[25-May-2016 19:29:54 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[25-May-2016 19:29:54 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[25-May-2016 19:29:54 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[25-May-2016 19:29:54 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[25-May-2016 19:29:54 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[25-May-2016 19:29:54 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[30-May-2016 13:29:52 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[30-May-2016 13:29:52 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[30-May-2016 13:29:52 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[02-Jun-2016 19:45:37 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[02-Jun-2016 19:45:37 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[02-Jun-2016 19:45:37 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[07-Jun-2016 01:36:11 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[07-Jun-2016 01:36:11 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[07-Jun-2016 01:36:11 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[07-Jun-2016 01:36:11 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[07-Jun-2016 01:36:11 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[07-Jun-2016 01:36:11 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[07-Jun-2016 01:43:36 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[07-Jun-2016 01:43:36 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[07-Jun-2016 01:43:36 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[07-Jun-2016 01:43:36 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[07-Jun-2016 01:43:36 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[07-Jun-2016 01:43:36 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[13-Jun-2016 14:39:20 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[13-Jun-2016 14:39:20 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[13-Jun-2016 14:39:20 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[13-Jun-2016 14:39:20 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[13-Jun-2016 14:39:20 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[13-Jun-2016 14:39:20 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[28-Jun-2016 15:38:48 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[28-Jun-2016 15:38:48 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[28-Jun-2016 15:38:48 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[28-Jun-2016 15:38:48 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[28-Jun-2016 15:38:48 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[28-Jun-2016 15:38:48 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[03-Jul-2016 21:13:19 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[03-Jul-2016 21:13:19 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[03-Jul-2016 21:13:19 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[05-Jul-2016 16:07:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[05-Jul-2016 16:07:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[05-Jul-2016 16:07:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[05-Jul-2016 16:07:23 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[05-Jul-2016 16:07:23 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[05-Jul-2016 16:07:23 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[06-Jul-2016 22:43:57 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[06-Jul-2016 22:43:57 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[06-Jul-2016 22:43:57 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[06-Jul-2016 22:43:57 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[06-Jul-2016 22:43:57 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[06-Jul-2016 22:43:57 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[06-Jul-2016 22:58:43 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[06-Jul-2016 22:58:43 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[06-Jul-2016 22:58:43 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[06-Jul-2016 22:58:43 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[06-Jul-2016 22:58:43 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[06-Jul-2016 22:58:43 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[07-Jul-2016 19:18:55 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[07-Jul-2016 19:18:55 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[07-Jul-2016 19:18:55 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[07-Jul-2016 19:18:55 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[07-Jul-2016 19:18:55 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[07-Jul-2016 19:18:55 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[07-Jul-2016 20:58:05 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[07-Jul-2016 20:58:05 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[07-Jul-2016 20:58:05 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[07-Jul-2016 20:58:05 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[07-Jul-2016 20:58:05 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[07-Jul-2016 20:58:05 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[08-Jul-2016 01:53:18 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[08-Jul-2016 01:53:18 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[08-Jul-2016 01:53:18 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[10-Jul-2016 03:06:00 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[10-Jul-2016 03:06:00 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[10-Jul-2016 03:06:00 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[10-Jul-2016 21:46:32 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[10-Jul-2016 21:46:32 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[10-Jul-2016 21:46:32 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[10-Jul-2016 21:46:32 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[10-Jul-2016 21:46:32 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[10-Jul-2016 21:46:32 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[25-Jul-2016 00:51:11 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[25-Jul-2016 00:51:11 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[25-Jul-2016 00:51:11 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[27-Jul-2016 07:21:15 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[27-Jul-2016 07:21:15 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[27-Jul-2016 07:21:15 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[30-Jul-2016 01:26:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[30-Jul-2016 01:26:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[30-Jul-2016 01:26:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[30-Jul-2016 01:26:23 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[30-Jul-2016 01:26:23 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[30-Jul-2016 01:26:23 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[24-Aug-2016 06:18:26 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[24-Aug-2016 06:18:26 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[24-Aug-2016 06:18:26 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[24-Aug-2016 06:18:26 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[24-Aug-2016 06:18:26 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[24-Aug-2016 06:18:26 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[24-Aug-2016 06:23:04 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[24-Aug-2016 06:23:04 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[24-Aug-2016 06:23:04 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[24-Aug-2016 06:23:04 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[24-Aug-2016 06:23:04 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[24-Aug-2016 06:23:04 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[27-Aug-2016 17:52:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[27-Aug-2016 17:52:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[27-Aug-2016 17:52:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[27-Aug-2016 17:52:17 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[27-Aug-2016 17:52:17 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[27-Aug-2016 17:52:17 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[29-Aug-2016 21:54:09 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[29-Aug-2016 21:54:09 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[29-Aug-2016 21:54:09 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[29-Aug-2016 21:54:09 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[29-Aug-2016 21:54:09 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[29-Aug-2016 21:54:09 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[31-Aug-2016 18:57:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[31-Aug-2016 18:57:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[31-Aug-2016 18:57:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[31-Aug-2016 18:57:31 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[31-Aug-2016 18:57:31 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[31-Aug-2016 18:57:31 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[01-Sep-2016 03:09:08 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[01-Sep-2016 03:09:08 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[01-Sep-2016 03:09:08 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[01-Sep-2016 03:09:08 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[01-Sep-2016 03:09:08 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[01-Sep-2016 03:09:08 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[05-Sep-2016 14:00:44 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[05-Sep-2016 14:00:44 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[05-Sep-2016 14:00:44 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[05-Sep-2016 14:00:44 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[05-Sep-2016 14:00:44 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[05-Sep-2016 14:00:44 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[05-Sep-2016 14:05:22 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[05-Sep-2016 14:05:22 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[05-Sep-2016 14:05:22 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[05-Sep-2016 14:05:22 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[05-Sep-2016 14:05:22 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[05-Sep-2016 14:05:22 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[05-Sep-2016 14:12:59 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[05-Sep-2016 14:12:59 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[05-Sep-2016 14:12:59 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[05-Sep-2016 14:12:59 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[05-Sep-2016 14:12:59 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[05-Sep-2016 14:12:59 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[06-Sep-2016 20:20:48 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[06-Sep-2016 20:20:48 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[06-Sep-2016 20:20:48 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[06-Sep-2016 20:20:48 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[06-Sep-2016 20:20:48 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[06-Sep-2016 20:20:48 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[08-Sep-2016 01:04:59 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[08-Sep-2016 01:04:59 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[08-Sep-2016 01:04:59 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[08-Sep-2016 01:04:59 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[08-Sep-2016 01:04:59 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[08-Sep-2016 01:04:59 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[13-Sep-2016 16:24:51 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[13-Sep-2016 16:24:51 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[13-Sep-2016 16:24:51 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[13-Sep-2016 16:24:51 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[13-Sep-2016 16:24:51 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[13-Sep-2016 16:24:51 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[14-Sep-2016 14:17:29 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[14-Sep-2016 14:17:29 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[14-Sep-2016 14:17:29 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[14-Sep-2016 14:17:29 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[14-Sep-2016 14:17:29 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[14-Sep-2016 14:17:29 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[18-Sep-2016 15:50:44 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[18-Sep-2016 15:50:44 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[18-Sep-2016 15:50:44 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[18-Sep-2016 15:50:44 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[18-Sep-2016 15:50:44 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[18-Sep-2016 15:50:44 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[03-Oct-2016 14:17:57 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[03-Oct-2016 14:17:57 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[03-Oct-2016 14:17:57 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[03-Oct-2016 14:17:57 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[03-Oct-2016 14:17:57 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[03-Oct-2016 14:17:57 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[10-Oct-2016 18:14:18 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[10-Oct-2016 18:14:18 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[10-Oct-2016 18:14:18 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[10-Oct-2016 18:14:18 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[10-Oct-2016 18:14:18 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[10-Oct-2016 18:14:18 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[17-Oct-2016 14:19:27 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[17-Oct-2016 14:19:27 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[17-Oct-2016 14:19:27 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[17-Oct-2016 14:19:27 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[17-Oct-2016 14:19:27 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[17-Oct-2016 14:19:27 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[17-Oct-2016 20:29:56 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[17-Oct-2016 20:29:56 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[17-Oct-2016 20:29:56 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[17-Oct-2016 20:29:56 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[17-Oct-2016 20:29:56 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[17-Oct-2016 20:29:56 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[18-Oct-2016 13:17:26 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[18-Oct-2016 13:17:26 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[18-Oct-2016 13:17:26 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[18-Oct-2016 13:17:26 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[18-Oct-2016 13:17:26 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[18-Oct-2016 13:17:26 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[19-Oct-2016 19:03:34 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[19-Oct-2016 19:03:35 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[19-Oct-2016 19:03:35 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[19-Oct-2016 19:03:35 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[19-Oct-2016 19:03:35 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[19-Oct-2016 19:03:35 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[19-Oct-2016 19:12:18 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[19-Oct-2016 19:12:18 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[19-Oct-2016 19:12:18 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[19-Oct-2016 19:12:18 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[19-Oct-2016 19:12:18 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[19-Oct-2016 19:12:18 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[27-Oct-2016 09:54:18 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[27-Oct-2016 09:54:19 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[27-Oct-2016 09:54:19 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[27-Oct-2016 09:54:19 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[27-Oct-2016 09:54:19 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[27-Oct-2016 09:54:19 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[27-Oct-2016 09:59:46 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[27-Oct-2016 09:59:46 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[27-Oct-2016 09:59:46 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[27-Oct-2016 09:59:46 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[27-Oct-2016 09:59:46 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[27-Oct-2016 09:59:46 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[06-Nov-2016 06:06:07 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[06-Nov-2016 06:06:07 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[06-Nov-2016 06:06:07 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[21-Nov-2016 08:38:48 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[21-Nov-2016 08:38:48 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[21-Nov-2016 08:38:48 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[21-Nov-2016 08:38:48 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[21-Nov-2016 08:38:48 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[21-Nov-2016 08:38:48 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[22-Nov-2016 03:23:13 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[22-Nov-2016 03:23:13 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[22-Nov-2016 03:23:13 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[22-Nov-2016 03:23:13 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[22-Nov-2016 03:23:13 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[22-Nov-2016 03:23:13 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[28-Nov-2016 05:04:29 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[28-Nov-2016 05:04:29 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[28-Nov-2016 05:04:29 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[28-Nov-2016 05:04:29 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[28-Nov-2016 05:04:29 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[28-Nov-2016 05:04:29 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[02-Dec-2016 17:19:36 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[02-Dec-2016 17:19:36 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[02-Dec-2016 17:19:36 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[02-Dec-2016 17:19:36 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[02-Dec-2016 17:19:36 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[02-Dec-2016 17:19:36 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[04-Dec-2016 00:47:58 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[04-Dec-2016 00:47:58 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[04-Dec-2016 00:47:58 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[04-Dec-2016 00:47:58 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[04-Dec-2016 00:47:58 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[04-Dec-2016 00:47:58 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[06-Dec-2016 14:50:33 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[06-Dec-2016 14:50:33 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[06-Dec-2016 14:50:33 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[06-Dec-2016 14:50:33 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[06-Dec-2016 14:50:33 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[06-Dec-2016 14:50:33 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[06-Dec-2016 14:55:22 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[06-Dec-2016 14:55:22 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[06-Dec-2016 14:55:22 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[06-Dec-2016 14:55:22 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[06-Dec-2016 14:55:22 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[06-Dec-2016 14:55:22 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[25-Dec-2016 23:28:14 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[25-Dec-2016 23:28:14 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[25-Dec-2016 23:28:14 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[03-Jan-2017 16:31:43 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[03-Jan-2017 16:31:43 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[03-Jan-2017 16:31:43 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[03-Jan-2017 16:31:43 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[03-Jan-2017 16:31:43 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[03-Jan-2017 16:31:43 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[10-Jan-2017 00:42:03 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[10-Jan-2017 00:42:03 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[10-Jan-2017 00:42:03 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[11-Jan-2017 16:59:58 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[11-Jan-2017 16:59:58 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[11-Jan-2017 16:59:58 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[11-Jan-2017 16:59:58 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[11-Jan-2017 16:59:58 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[11-Jan-2017 16:59:58 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[11-Jan-2017 17:58:16 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[11-Jan-2017 17:58:16 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[11-Jan-2017 17:58:16 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[11-Jan-2017 17:58:16 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[11-Jan-2017 17:58:16 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[11-Jan-2017 17:58:16 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[11-Jan-2017 17:59:16 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[11-Jan-2017 17:59:16 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[11-Jan-2017 17:59:16 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[11-Jan-2017 17:59:16 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[11-Jan-2017 17:59:16 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[11-Jan-2017 17:59:16 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[11-Jan-2017 23:49:43 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[11-Jan-2017 23:49:43 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[11-Jan-2017 23:49:43 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[11-Jan-2017 23:49:43 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[11-Jan-2017 23:49:43 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[11-Jan-2017 23:49:43 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[16-Jan-2017 09:46:07 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[16-Jan-2017 09:46:07 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[16-Jan-2017 09:46:07 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[17-Jan-2017 00:39:06 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[17-Jan-2017 00:39:06 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[17-Jan-2017 00:39:06 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[17-Jan-2017 00:39:06 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[17-Jan-2017 00:39:06 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[17-Jan-2017 00:39:06 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[18-Jan-2017 02:26:48 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[18-Jan-2017 02:26:48 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[18-Jan-2017 02:26:48 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[18-Jan-2017 02:26:48 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[18-Jan-2017 02:26:48 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[18-Jan-2017 02:26:48 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[20-Jan-2017 03:17:52 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[20-Jan-2017 03:17:52 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[20-Jan-2017 03:17:52 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[20-Jan-2017 03:17:52 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[20-Jan-2017 03:17:52 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[20-Jan-2017 03:17:52 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[20-Jan-2017 19:41:25 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[20-Jan-2017 19:41:25 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[20-Jan-2017 19:41:25 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[20-Jan-2017 19:41:25 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[20-Jan-2017 19:41:25 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[20-Jan-2017 19:41:25 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[21-Jan-2017 06:53:11 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[21-Jan-2017 06:53:11 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[21-Jan-2017 06:53:11 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[21-Jan-2017 06:53:11 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[21-Jan-2017 06:53:11 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[21-Jan-2017 06:53:11 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[21-Jan-2017 06:55:34 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[21-Jan-2017 06:55:34 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[21-Jan-2017 06:55:34 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[21-Jan-2017 06:55:34 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[21-Jan-2017 06:55:34 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[21-Jan-2017 06:55:34 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[24-Jan-2017 00:32:23 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[24-Jan-2017 00:32:23 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[24-Jan-2017 00:32:23 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[24-Jan-2017 01:34:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[24-Jan-2017 01:34:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[24-Jan-2017 01:34:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[24-Jan-2017 01:34:23 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[24-Jan-2017 01:34:23 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[24-Jan-2017 01:34:23 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[30-Jan-2017 18:46:15 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[30-Jan-2017 18:46:15 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[30-Jan-2017 18:46:15 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[30-Jan-2017 18:46:15 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[30-Jan-2017 18:46:15 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[30-Jan-2017 18:46:15 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[02-Feb-2017 16:06:37 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[02-Feb-2017 16:06:37 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[02-Feb-2017 16:06:37 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[02-Feb-2017 16:06:37 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[02-Feb-2017 16:06:37 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[02-Feb-2017 16:06:37 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[04-Feb-2017 14:31:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[04-Feb-2017 14:31:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[04-Feb-2017 14:31:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[04-Feb-2017 14:31:31 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[04-Feb-2017 14:31:31 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[04-Feb-2017 14:31:31 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[08-Feb-2017 23:58:52 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[08-Feb-2017 23:58:52 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[08-Feb-2017 23:58:52 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[08-Feb-2017 23:58:52 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[08-Feb-2017 23:58:52 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[08-Feb-2017 23:58:52 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[10-Feb-2017 19:26:54 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[10-Feb-2017 19:26:54 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[10-Feb-2017 19:26:54 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[10-Feb-2017 19:26:54 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[10-Feb-2017 19:26:54 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[10-Feb-2017 19:26:54 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[11-Feb-2017 01:21:05 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[11-Feb-2017 01:21:05 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[11-Feb-2017 01:21:05 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[11-Feb-2017 01:21:05 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[11-Feb-2017 01:21:05 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[11-Feb-2017 01:21:05 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[11-Feb-2017 17:49:13 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[11-Feb-2017 17:49:13 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[11-Feb-2017 17:49:13 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[11-Feb-2017 17:49:13 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[11-Feb-2017 17:49:13 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[11-Feb-2017 17:49:13 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[14-Feb-2017 15:55:08 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[14-Feb-2017 15:55:08 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[14-Feb-2017 15:55:08 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[14-Feb-2017 15:55:08 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[14-Feb-2017 15:55:08 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[14-Feb-2017 15:55:08 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[15-Feb-2017 17:05:14 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[15-Feb-2017 17:05:14 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[15-Feb-2017 17:05:14 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[15-Feb-2017 17:05:14 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[15-Feb-2017 17:05:14 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[15-Feb-2017 17:05:14 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[18-Feb-2017 06:23:57 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[18-Feb-2017 06:23:57 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[18-Feb-2017 06:23:57 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[18-Feb-2017 06:23:57 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[18-Feb-2017 06:23:57 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[18-Feb-2017 06:23:57 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[22-Feb-2017 04:27:08 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[22-Feb-2017 04:27:08 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[22-Feb-2017 04:27:08 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[22-Feb-2017 04:27:08 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[22-Feb-2017 04:27:08 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[22-Feb-2017 04:27:08 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[28-Feb-2017 23:52:18 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[28-Feb-2017 23:52:18 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[28-Feb-2017 23:52:18 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[28-Feb-2017 23:52:18 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[28-Feb-2017 23:52:18 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[28-Feb-2017 23:52:18 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[06-Mar-2017 02:55:13 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[06-Mar-2017 02:55:13 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[06-Mar-2017 02:55:13 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[06-Mar-2017 02:55:13 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[06-Mar-2017 02:55:13 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[06-Mar-2017 02:55:13 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[07-Mar-2017 22:56:00 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[07-Mar-2017 22:56:00 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[07-Mar-2017 22:56:00 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[07-Mar-2017 22:56:00 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[07-Mar-2017 22:56:00 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[07-Mar-2017 22:56:00 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[14-Mar-2017 21:06:42 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[14-Mar-2017 21:06:42 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[14-Mar-2017 21:06:42 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[14-Mar-2017 21:06:42 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[14-Mar-2017 21:06:42 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[14-Mar-2017 21:06:42 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[23-Mar-2017 01:41:58 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[23-Mar-2017 01:41:58 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[23-Mar-2017 01:41:58 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[23-Mar-2017 01:41:58 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[23-Mar-2017 01:41:58 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[23-Mar-2017 01:41:58 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[24-Mar-2017 20:12:26 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[24-Mar-2017 20:12:26 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[24-Mar-2017 20:12:26 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[24-Mar-2017 20:12:26 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[24-Mar-2017 20:12:26 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[24-Mar-2017 20:12:26 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[25-Mar-2017 03:00:01 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[25-Mar-2017 03:00:01 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[25-Mar-2017 03:00:01 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[25-Mar-2017 03:00:01 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[25-Mar-2017 03:00:01 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[25-Mar-2017 03:00:01 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[27-Mar-2017 22:11:14 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[27-Mar-2017 22:11:14 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[27-Mar-2017 22:11:14 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[27-Mar-2017 22:11:14 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[27-Mar-2017 22:11:14 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[27-Mar-2017 22:11:14 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[28-Mar-2017 21:18:27 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[28-Mar-2017 21:18:27 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[28-Mar-2017 21:18:27 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[28-Mar-2017 21:18:27 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[28-Mar-2017 21:18:27 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[28-Mar-2017 21:18:27 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[06-Apr-2017 12:08:07 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[06-Apr-2017 12:08:07 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[06-Apr-2017 12:08:07 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[08-Apr-2017 02:47:04 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[08-Apr-2017 02:47:04 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[08-Apr-2017 02:47:04 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[08-Apr-2017 02:47:04 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[08-Apr-2017 02:47:04 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[08-Apr-2017 02:47:04 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[08-Apr-2017 03:22:38 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[08-Apr-2017 03:22:38 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[08-Apr-2017 03:22:38 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[08-Apr-2017 03:22:38 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[08-Apr-2017 03:22:38 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[08-Apr-2017 03:22:38 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[09-Apr-2017 21:31:49 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[09-Apr-2017 21:31:49 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[09-Apr-2017 21:31:49 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[10-Apr-2017 08:04:56 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[10-Apr-2017 08:04:56 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[10-Apr-2017 08:04:56 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[10-Apr-2017 18:25:47 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[10-Apr-2017 18:25:47 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[10-Apr-2017 18:25:47 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[10-Apr-2017 18:25:47 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[10-Apr-2017 18:25:47 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[10-Apr-2017 18:25:47 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[13-Apr-2017 02:56:29 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[13-Apr-2017 02:56:29 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[13-Apr-2017 02:56:29 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[19-Apr-2017 00:14:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[19-Apr-2017 00:14:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[19-Apr-2017 00:14:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[19-Apr-2017 00:14:17 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[19-Apr-2017 00:14:17 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[19-Apr-2017 00:14:17 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[20-Apr-2017 23:49:47 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[20-Apr-2017 23:49:47 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[20-Apr-2017 23:49:47 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[20-Apr-2017 23:49:48 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[20-Apr-2017 23:49:48 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[20-Apr-2017 23:49:48 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[23-Apr-2017 03:21:19 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[23-Apr-2017 03:21:19 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[23-Apr-2017 03:21:19 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[23-Apr-2017 03:21:19 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[23-Apr-2017 03:21:19 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[23-Apr-2017 03:21:19 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[25-Apr-2017 13:30:47 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[25-Apr-2017 13:30:47 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[25-Apr-2017 13:30:47 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[25-Apr-2017 17:10:15 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[25-Apr-2017 17:10:15 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[25-Apr-2017 17:10:15 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[27-Apr-2017 01:03:43 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[27-Apr-2017 01:03:43 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[27-Apr-2017 01:03:43 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[01-May-2017 09:36:25 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[01-May-2017 09:36:25 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[01-May-2017 09:36:25 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[07-May-2017 00:37:25 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[07-May-2017 00:37:26 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[07-May-2017 00:37:26 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[08-May-2017 14:30:40 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[08-May-2017 14:30:40 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[08-May-2017 14:30:40 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[09-May-2017 21:29:25 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[09-May-2017 21:29:25 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[09-May-2017 21:29:25 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[09-May-2017 21:29:25 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[09-May-2017 21:29:25 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[09-May-2017 21:29:25 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[11-May-2017 15:53:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[11-May-2017 15:53:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[11-May-2017 15:53:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[11-May-2017 15:53:31 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[11-May-2017 15:53:31 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[11-May-2017 15:53:31 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[11-May-2017 15:54:00 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[11-May-2017 15:54:00 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[11-May-2017 15:54:00 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[11-May-2017 15:54:00 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[11-May-2017 15:54:00 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[11-May-2017 15:54:00 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[11-May-2017 16:02:46 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[11-May-2017 16:02:46 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[11-May-2017 16:02:46 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[11-May-2017 16:02:46 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[11-May-2017 16:02:46 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[11-May-2017 16:02:46 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[11-May-2017 18:40:07 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[11-May-2017 18:40:07 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[11-May-2017 18:40:07 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[11-May-2017 18:40:07 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[11-May-2017 18:40:07 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[11-May-2017 18:40:07 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[11-May-2017 20:00:14 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[11-May-2017 20:00:14 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[11-May-2017 20:00:14 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[11-May-2017 20:00:14 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[11-May-2017 20:00:14 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[11-May-2017 20:00:14 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[15-May-2017 00:34:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[15-May-2017 00:34:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[15-May-2017 00:34:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[15-May-2017 00:34:17 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[15-May-2017 00:34:17 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[15-May-2017 00:34:17 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[16-May-2017 00:50:34 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[16-May-2017 00:50:34 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[16-May-2017 00:50:34 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[16-May-2017 06:34:58 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[16-May-2017 06:34:58 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[16-May-2017 06:34:58 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[16-May-2017 14:48:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[16-May-2017 14:48:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[16-May-2017 14:48:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[16-May-2017 14:48:23 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[16-May-2017 14:48:23 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[16-May-2017 14:48:23 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[16-May-2017 16:39:30 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[16-May-2017 16:39:30 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[16-May-2017 16:39:30 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[16-May-2017 16:39:30 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[16-May-2017 16:39:30 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[16-May-2017 16:39:30 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[16-May-2017 19:56:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[16-May-2017 19:56:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[16-May-2017 19:56:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[16-May-2017 19:56:23 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[16-May-2017 19:56:23 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[16-May-2017 19:56:23 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[17-May-2017 22:09:55 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[17-May-2017 22:09:55 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[17-May-2017 22:09:55 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[18-May-2017 05:27:51 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[18-May-2017 05:27:51 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[18-May-2017 05:27:51 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[19-May-2017 22:18:40 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[19-May-2017 22:18:40 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[19-May-2017 22:18:40 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[19-May-2017 22:18:40 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[19-May-2017 22:18:40 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[19-May-2017 22:18:40 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[19-May-2017 22:41:36 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[19-May-2017 22:41:36 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[19-May-2017 22:41:36 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[20-May-2017 16:08:40 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[20-May-2017 16:08:40 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[20-May-2017 16:08:40 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[21-May-2017 23:21:28 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[21-May-2017 23:21:28 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[21-May-2017 23:21:28 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[23-May-2017 21:55:16 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[23-May-2017 21:55:16 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[23-May-2017 21:55:16 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[25-May-2017 19:08:14 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[25-May-2017 19:08:14 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[25-May-2017 19:08:14 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[25-May-2017 19:08:14 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[25-May-2017 19:08:14 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[25-May-2017 19:08:14 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[26-May-2017 05:07:22 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[26-May-2017 05:07:22 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[26-May-2017 05:07:22 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[28-May-2017 19:55:42 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[28-May-2017 19:55:42 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[28-May-2017 19:55:42 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[28-May-2017 19:55:42 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[28-May-2017 19:55:42 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[28-May-2017 19:55:42 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[29-May-2017 22:12:23 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[29-May-2017 22:12:23 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[29-May-2017 22:12:23 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[01-Jun-2017 19:01:25 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[01-Jun-2017 19:01:25 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[01-Jun-2017 19:01:25 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[01-Jun-2017 19:01:25 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[01-Jun-2017 19:01:25 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[01-Jun-2017 19:01:25 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[01-Jun-2017 19:02:03 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[01-Jun-2017 19:02:03 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[01-Jun-2017 19:02:03 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[01-Jun-2017 19:02:03 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[01-Jun-2017 19:02:03 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[01-Jun-2017 19:02:03 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[01-Jun-2017 19:19:58 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[01-Jun-2017 19:19:58 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[01-Jun-2017 19:19:58 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[01-Jun-2017 19:19:58 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[01-Jun-2017 19:19:58 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[01-Jun-2017 19:19:58 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[06-Jun-2017 02:30:57 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[06-Jun-2017 02:30:57 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[06-Jun-2017 02:30:57 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[06-Jun-2017 02:30:57 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[06-Jun-2017 02:30:57 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[06-Jun-2017 02:30:57 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[07-Jun-2017 01:38:12 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[07-Jun-2017 01:38:12 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[07-Jun-2017 01:38:12 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[11-Jun-2017 20:51:24 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[11-Jun-2017 20:51:24 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[11-Jun-2017 20:51:24 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[11-Jun-2017 20:51:24 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[11-Jun-2017 20:51:24 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[11-Jun-2017 20:51:24 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[15-Jun-2017 20:37:40 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[15-Jun-2017 20:37:40 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[15-Jun-2017 20:37:40 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[15-Jun-2017 20:37:40 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[15-Jun-2017 20:37:40 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[15-Jun-2017 20:37:40 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[15-Jun-2017 23:33:16 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[15-Jun-2017 23:33:16 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[15-Jun-2017 23:33:16 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[15-Jun-2017 23:33:16 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[15-Jun-2017 23:33:16 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[15-Jun-2017 23:33:16 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[17-Jun-2017 02:22:14 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[17-Jun-2017 02:22:14 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[17-Jun-2017 02:22:14 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[17-Jun-2017 02:22:14 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[17-Jun-2017 02:22:14 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[17-Jun-2017 02:22:14 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[21-Jun-2017 14:27:16 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[21-Jun-2017 14:27:16 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[21-Jun-2017 14:27:16 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[21-Jun-2017 14:27:16 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[21-Jun-2017 14:27:16 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[21-Jun-2017 14:27:16 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[03-Jul-2017 18:45:30 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[03-Jul-2017 18:45:30 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[03-Jul-2017 18:45:30 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[03-Jul-2017 18:45:30 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[03-Jul-2017 18:45:30 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[03-Jul-2017 18:45:30 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[04-Jul-2017 06:24:06 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[04-Jul-2017 06:24:06 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[04-Jul-2017 06:24:06 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[05-Jul-2017 19:09:01 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[05-Jul-2017 19:09:01 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[05-Jul-2017 19:09:01 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[05-Jul-2017 19:09:01 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[05-Jul-2017 19:09:01 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[05-Jul-2017 19:09:01 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[05-Jul-2017 19:09:02 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[05-Jul-2017 19:09:02 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[05-Jul-2017 19:09:02 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[05-Jul-2017 19:09:02 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[05-Jul-2017 19:09:02 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[05-Jul-2017 19:09:02 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[12-Jul-2017 00:22:24 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[12-Jul-2017 00:22:24 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[12-Jul-2017 00:22:24 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[12-Jul-2017 00:22:24 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[12-Jul-2017 00:22:24 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[12-Jul-2017 00:22:24 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[12-Jul-2017 18:12:43 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[12-Jul-2017 18:12:43 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[12-Jul-2017 18:12:43 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[12-Jul-2017 18:12:43 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[12-Jul-2017 18:12:43 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[12-Jul-2017 18:12:43 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[12-Jul-2017 18:12:52 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[12-Jul-2017 18:12:52 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[12-Jul-2017 18:12:52 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[12-Jul-2017 18:12:52 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[12-Jul-2017 18:12:52 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[12-Jul-2017 18:12:52 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[12-Jul-2017 18:30:11 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[12-Jul-2017 18:30:11 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[12-Jul-2017 18:30:11 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[12-Jul-2017 18:30:11 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[12-Jul-2017 18:30:11 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[12-Jul-2017 18:30:11 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[26-Jul-2017 02:49:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[26-Jul-2017 02:49:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[26-Jul-2017 02:49:23 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[26-Jul-2017 02:49:23 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[26-Jul-2017 02:49:23 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[26-Jul-2017 02:49:23 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[27-Jul-2017 02:36:03 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[27-Jul-2017 02:36:03 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[27-Jul-2017 02:36:03 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[27-Jul-2017 02:36:03 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[27-Jul-2017 02:36:03 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[27-Jul-2017 02:36:03 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[27-Jul-2017 02:39:03 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[27-Jul-2017 02:39:03 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[27-Jul-2017 02:39:03 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[27-Jul-2017 02:39:03 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[27-Jul-2017 02:39:03 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[27-Jul-2017 02:39:03 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[06-Aug-2017 16:31:22 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[06-Aug-2017 16:31:22 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[06-Aug-2017 16:31:22 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[06-Aug-2017 16:31:22 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[06-Aug-2017 16:31:22 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[06-Aug-2017 16:31:22 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[08-Aug-2017 21:33:42 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[08-Aug-2017 21:33:42 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[08-Aug-2017 21:33:42 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[08-Aug-2017 21:33:42 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[08-Aug-2017 21:33:42 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[08-Aug-2017 21:33:42 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[10-Aug-2017 02:45:35 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[10-Aug-2017 02:45:35 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[10-Aug-2017 02:45:35 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[10-Aug-2017 02:45:35 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[10-Aug-2017 02:45:35 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[10-Aug-2017 02:45:35 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[15-Aug-2017 19:25:07 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[15-Aug-2017 19:25:07 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[15-Aug-2017 19:25:07 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[15-Aug-2017 19:25:07 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[15-Aug-2017 19:25:07 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[15-Aug-2017 19:25:07 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[16-Aug-2017 16:04:15 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[16-Aug-2017 16:04:15 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[16-Aug-2017 16:04:15 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[16-Aug-2017 16:04:15 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[16-Aug-2017 16:04:15 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[16-Aug-2017 16:04:15 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[21-Aug-2017 00:20:02 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[21-Aug-2017 00:20:02 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[21-Aug-2017 00:20:02 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[21-Aug-2017 00:20:02 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[21-Aug-2017 00:20:02 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[21-Aug-2017 00:20:02 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[21-Aug-2017 10:27:22 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[21-Aug-2017 10:27:22 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[21-Aug-2017 10:27:22 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[21-Aug-2017 13:06:41 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[21-Aug-2017 13:06:41 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[21-Aug-2017 13:06:41 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[24-Aug-2017 19:37:53 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[24-Aug-2017 19:37:53 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[24-Aug-2017 19:37:53 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[28-Aug-2017 13:56:36 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[28-Aug-2017 13:56:36 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[28-Aug-2017 13:56:36 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[28-Aug-2017 13:56:36 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[28-Aug-2017 13:56:36 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[28-Aug-2017 13:56:36 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[28-Aug-2017 22:41:46 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[28-Aug-2017 22:41:46 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[28-Aug-2017 22:41:46 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[30-Aug-2017 21:22:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[30-Aug-2017 21:22:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[30-Aug-2017 21:22:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[30-Aug-2017 21:22:17 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[30-Aug-2017 21:22:17 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[30-Aug-2017 21:22:17 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[04-Sep-2017 23:33:58 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[04-Sep-2017 23:33:58 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[04-Sep-2017 23:33:58 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[05-Sep-2017 02:18:22 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[05-Sep-2017 02:18:22 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[05-Sep-2017 02:18:22 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[05-Sep-2017 16:35:44 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[05-Sep-2017 16:35:44 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[05-Sep-2017 16:35:44 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[05-Sep-2017 16:35:44 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[05-Sep-2017 16:35:44 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[05-Sep-2017 16:35:44 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[05-Sep-2017 17:19:51 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[05-Sep-2017 17:19:51 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[05-Sep-2017 17:19:51 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[05-Sep-2017 17:19:51 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[05-Sep-2017 17:19:51 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[05-Sep-2017 17:19:51 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[05-Sep-2017 19:16:04 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[05-Sep-2017 19:16:04 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[05-Sep-2017 19:16:04 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[05-Sep-2017 19:16:04 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[05-Sep-2017 19:16:04 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[05-Sep-2017 19:16:04 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[06-Sep-2017 14:40:04 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[06-Sep-2017 14:40:04 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[06-Sep-2017 14:40:04 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[06-Sep-2017 14:40:04 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[06-Sep-2017 14:40:04 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[06-Sep-2017 14:40:04 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[06-Sep-2017 17:35:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[06-Sep-2017 17:35:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[06-Sep-2017 17:35:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[06-Sep-2017 17:35:31 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[06-Sep-2017 17:35:31 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[06-Sep-2017 17:35:31 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[11-Sep-2017 23:02:55 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[11-Sep-2017 23:02:55 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[11-Sep-2017 23:02:55 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[11-Sep-2017 23:02:55 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[11-Sep-2017 23:02:55 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[11-Sep-2017 23:02:55 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[12-Sep-2017 16:07:41 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[12-Sep-2017 16:07:41 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[12-Sep-2017 16:07:41 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[12-Sep-2017 16:07:41 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[12-Sep-2017 16:07:41 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[12-Sep-2017 16:07:41 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[12-Sep-2017 20:54:28 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[12-Sep-2017 20:54:28 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[12-Sep-2017 20:54:28 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[12-Sep-2017 20:54:28 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[12-Sep-2017 20:54:28 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[12-Sep-2017 20:54:28 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[14-Sep-2017 12:44:19 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[14-Sep-2017 12:44:19 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[14-Sep-2017 12:44:19 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[16-Sep-2017 13:37:15 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[16-Sep-2017 13:37:15 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[16-Sep-2017 13:37:15 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[16-Sep-2017 13:37:15 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[16-Sep-2017 13:37:15 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[16-Sep-2017 13:37:15 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[19-Sep-2017 13:40:43 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[19-Sep-2017 13:40:43 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[19-Sep-2017 13:40:43 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[19-Sep-2017 15:50:50 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[19-Sep-2017 15:50:50 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[19-Sep-2017 15:50:50 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[19-Sep-2017 16:50:51 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[19-Sep-2017 16:50:51 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[19-Sep-2017 16:50:51 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[19-Sep-2017 16:50:51 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[19-Sep-2017 16:50:51 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[19-Sep-2017 16:50:51 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[21-Sep-2017 20:51:58 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[21-Sep-2017 20:51:58 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[21-Sep-2017 20:51:58 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[21-Sep-2017 20:51:58 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[21-Sep-2017 20:51:58 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[21-Sep-2017 20:51:58 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[27-Sep-2017 23:30:48 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[27-Sep-2017 23:30:48 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[27-Sep-2017 23:30:48 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[27-Sep-2017 23:30:48 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[27-Sep-2017 23:30:48 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[27-Sep-2017 23:30:48 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[28-Sep-2017 22:04:35 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[28-Sep-2017 22:04:35 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[28-Sep-2017 22:04:35 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[28-Sep-2017 22:04:35 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[28-Sep-2017 22:04:35 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[28-Sep-2017 22:04:35 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[29-Sep-2017 02:36:38 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[29-Sep-2017 02:36:38 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[29-Sep-2017 02:36:38 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[29-Sep-2017 02:36:38 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[29-Sep-2017 02:36:38 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[29-Sep-2017 02:36:38 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[02-Oct-2017 15:43:50 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[02-Oct-2017 15:43:50 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[02-Oct-2017 15:43:50 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[02-Oct-2017 15:43:50 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[02-Oct-2017 15:43:50 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[02-Oct-2017 15:43:50 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[03-Oct-2017 19:20:00 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[03-Oct-2017 19:20:00 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[03-Oct-2017 19:20:00 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[03-Oct-2017 19:20:00 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[03-Oct-2017 19:20:00 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[03-Oct-2017 19:20:00 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[04-Oct-2017 06:46:56 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[04-Oct-2017 06:46:56 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[04-Oct-2017 06:46:56 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[04-Oct-2017 09:23:42 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[04-Oct-2017 09:23:42 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[04-Oct-2017 09:23:42 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[09-Oct-2017 16:17:00 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[09-Oct-2017 16:17:00 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[09-Oct-2017 16:17:00 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[09-Oct-2017 16:17:00 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[09-Oct-2017 16:17:00 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[09-Oct-2017 16:17:00 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[09-Oct-2017 23:31:28 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[09-Oct-2017 23:31:28 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[09-Oct-2017 23:31:28 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[09-Oct-2017 23:31:28 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[09-Oct-2017 23:31:28 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[09-Oct-2017 23:31:28 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[20-Oct-2017 18:14:32 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[20-Oct-2017 18:14:32 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[20-Oct-2017 18:14:32 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[20-Oct-2017 18:14:32 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[20-Oct-2017 18:14:32 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[20-Oct-2017 18:14:32 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[20-Oct-2017 18:17:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[20-Oct-2017 18:17:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[20-Oct-2017 18:17:17 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[20-Oct-2017 18:17:17 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[20-Oct-2017 18:17:17 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[20-Oct-2017 18:17:17 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[20-Oct-2017 18:17:32 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[20-Oct-2017 18:17:32 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[20-Oct-2017 18:17:32 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[20-Oct-2017 18:17:32 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[20-Oct-2017 18:17:32 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[20-Oct-2017 18:17:32 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[20-Oct-2017 18:20:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[20-Oct-2017 18:20:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[20-Oct-2017 18:20:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[20-Oct-2017 18:20:31 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[20-Oct-2017 18:20:31 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[20-Oct-2017 18:20:31 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[21-Oct-2017 01:36:10 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[21-Oct-2017 01:36:10 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[21-Oct-2017 01:36:10 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[21-Oct-2017 04:52:41 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[21-Oct-2017 04:52:41 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[21-Oct-2017 04:52:41 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[21-Oct-2017 23:08:42 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[21-Oct-2017 23:08:42 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[21-Oct-2017 23:08:42 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[21-Oct-2017 23:08:42 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[21-Oct-2017 23:08:42 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[21-Oct-2017 23:08:42 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[23-Oct-2017 23:54:55 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[23-Oct-2017 23:54:55 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[23-Oct-2017 23:54:55 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[23-Oct-2017 23:54:55 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[23-Oct-2017 23:54:55 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[23-Oct-2017 23:54:55 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[24-Oct-2017 22:35:21 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[24-Oct-2017 22:35:21 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[24-Oct-2017 22:35:21 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[28-Oct-2017 02:45:54 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[28-Oct-2017 02:45:55 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[28-Oct-2017 02:45:55 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[28-Oct-2017 02:45:55 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[28-Oct-2017 02:45:55 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[28-Oct-2017 02:45:55 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[01-Nov-2017 13:52:56 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[01-Nov-2017 13:52:56 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[01-Nov-2017 13:52:56 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[01-Nov-2017 13:52:56 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[01-Nov-2017 13:52:56 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[01-Nov-2017 13:52:56 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[01-Nov-2017 13:53:19 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[01-Nov-2017 13:53:19 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[01-Nov-2017 13:53:19 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[01-Nov-2017 13:53:19 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[01-Nov-2017 13:53:19 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[01-Nov-2017 13:53:19 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[01-Nov-2017 13:55:47 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[01-Nov-2017 13:55:47 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[01-Nov-2017 13:55:47 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[01-Nov-2017 13:55:47 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[01-Nov-2017 13:55:47 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[01-Nov-2017 13:55:47 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[01-Nov-2017 13:55:47 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[01-Nov-2017 13:55:47 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[01-Nov-2017 13:55:47 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[01-Nov-2017 13:55:47 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[01-Nov-2017 13:55:47 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[01-Nov-2017 13:55:47 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[01-Nov-2017 23:39:09 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[01-Nov-2017 23:39:09 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[01-Nov-2017 23:39:09 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[01-Nov-2017 23:39:09 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[01-Nov-2017 23:39:09 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[01-Nov-2017 23:39:09 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[04-Nov-2017 22:25:25 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[04-Nov-2017 22:25:25 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[04-Nov-2017 22:25:25 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[04-Nov-2017 22:25:25 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[04-Nov-2017 22:25:25 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[04-Nov-2017 22:25:25 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[05-Nov-2017 00:14:11 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[05-Nov-2017 00:14:11 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[05-Nov-2017 00:14:11 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[05-Nov-2017 03:02:33 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[05-Nov-2017 03:02:33 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[05-Nov-2017 03:02:33 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[08-Nov-2017 06:50:07 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[08-Nov-2017 06:50:07 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[08-Nov-2017 06:50:07 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[09-Nov-2017 20:31:46 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[09-Nov-2017 20:31:46 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[09-Nov-2017 20:31:46 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[09-Nov-2017 20:31:46 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[09-Nov-2017 20:31:46 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[09-Nov-2017 20:31:46 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[13-Nov-2017 15:04:20 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[13-Nov-2017 15:04:20 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[13-Nov-2017 15:04:20 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[13-Nov-2017 15:04:20 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[13-Nov-2017 15:04:20 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[13-Nov-2017 15:04:20 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[13-Nov-2017 16:51:37 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[13-Nov-2017 16:51:37 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[13-Nov-2017 16:51:37 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[13-Nov-2017 16:51:37 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[13-Nov-2017 16:51:37 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[13-Nov-2017 16:51:37 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[14-Nov-2017 00:45:56 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[14-Nov-2017 00:45:56 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[14-Nov-2017 00:45:56 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[14-Nov-2017 00:45:56 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[14-Nov-2017 00:45:56 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[14-Nov-2017 00:45:56 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[17-Nov-2017 16:23:04 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[17-Nov-2017 16:23:04 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[17-Nov-2017 16:23:04 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[21-Nov-2017 08:31:53 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[21-Nov-2017 08:31:53 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[21-Nov-2017 08:31:53 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[21-Nov-2017 11:08:23 UTC] PHP Notice:  Undefined index: name in /home/jknails1/public_html/emailform.php on line 3
+[21-Nov-2017 11:08:23 UTC] PHP Notice:  Undefined index: email in /home/jknails1/public_html/emailform.php on line 4
+[21-Nov-2017 11:08:23 UTC] PHP Notice:  Undefined index: comment in /home/jknails1/public_html/emailform.php on line 5
+[22-Nov-2017 04:27:33 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[22-Nov-2017 04:27:33 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[22-Nov-2017 04:27:33 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[22-Nov-2017 04:27:33 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[22-Nov-2017 04:27:33 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[22-Nov-2017 04:27:33 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[25-Nov-2017 22:43:27 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[25-Nov-2017 22:43:27 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[25-Nov-2017 22:43:27 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[25-Nov-2017 22:43:27 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[25-Nov-2017 22:43:27 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[25-Nov-2017 22:43:27 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[27-Nov-2017 18:54:52 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[27-Nov-2017 18:54:52 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[27-Nov-2017 18:54:52 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[27-Nov-2017 18:54:52 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[27-Nov-2017 18:54:52 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[27-Nov-2017 18:54:52 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[27-Nov-2017 22:44:55 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[27-Nov-2017 22:44:55 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[27-Nov-2017 22:44:55 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[27-Nov-2017 22:44:55 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[27-Nov-2017 22:44:55 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[27-Nov-2017 22:44:55 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[29-Nov-2017 00:37:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[29-Nov-2017 00:37:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[29-Nov-2017 00:37:31 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[29-Nov-2017 00:37:31 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[29-Nov-2017 00:37:31 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[29-Nov-2017 00:37:31 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[29-Nov-2017 01:41:11 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[29-Nov-2017 01:41:11 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[29-Nov-2017 01:41:11 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[29-Nov-2017 01:41:11 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[29-Nov-2017 01:41:11 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[29-Nov-2017 01:41:11 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[29-Nov-2017 10:24:53 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[29-Nov-2017 10:24:53 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[29-Nov-2017 10:24:53 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[29-Nov-2017 10:24:53 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[29-Nov-2017 10:24:53 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[29-Nov-2017 10:24:53 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
+[29-Nov-2017 20:15:54 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 5
+[29-Nov-2017 20:15:54 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 30
+[29-Nov-2017 20:15:54 UTC] PHP Notice:  Undefined index:  in /home/jknails1/public_html/application.php on line 35
+[29-Nov-2017 20:15:54 UTC] PHP Notice:  Undefined index: supername in /home/jknails1/public_html/application.php on line 40
+[29-Nov-2017 20:15:54 UTC] PHP Notice:  Undefined index: supertele in /home/jknails1/public_html/application.php on line 41
+[29-Nov-2017 20:15:54 UTC] PHP Notice:  Undefined index: supertele2 in /home/jknails1/public_html/application.php on line 43
